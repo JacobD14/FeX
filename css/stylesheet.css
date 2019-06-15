@@ -22,12 +22,21 @@ body {
     display: flex;
 }
 #fexgroup {
-    margin: 5px;
+    margin-left: auto;
 }
 #fexgroup-phone {
     align-self: flex-end;
-    margin: 5px;
+    margin-left: 20px;
+}
+#verification-logo {
+    margin-left: auto;
+    margin-right: auto;
 }
 #fexprocess {
     align-self: flex-end;
+    margin-right: 20px;
+}
+#fexprocess-phone {
+    align-self: flex-end;
+    margin-right: auto;
 }
